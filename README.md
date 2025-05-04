@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--# 👋 Olá! Eu sou Nicoly Araujo
+# 👋 Olá! Eu sou Nicoly Araujo
 
 Sou um desenvolvedor apaixonado por tecnologia, inovação e aprendizado contínuo. Atualmente trabalho com desenvolvimento full stack, focando em entregar soluções eficientes e escaláveis.
 
