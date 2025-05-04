@@ -29,13 +29,13 @@ Sou um desenvolvedor apaixonado por tecnologia, inovação e aprendizado contín
 
 ## 📈 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolykey&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolykey&layout=compact&theme=tokyonight)
 
 ## 🌐 Contato
-- ✉️ Email: seuemail@example.com  
-- 💼 LinkedIn: [seu-linkedin](https://linkedin.com/in/seu-usuario)
+- ✉️ Email: nicolykeyssiane@gmail.com  
+- 💼 LinkedIn: (linkedin.com/in/nicoly-keyssiane-lima-araujo-a45594248)
 
 ---
 
