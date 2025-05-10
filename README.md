@@ -1,4 +1,4 @@
-<h1 align="center">Ola, me chamo Nicoly Arauo 👋</h1>
+<h1 align="center">Ola, me chamo Nicoly Araujo 👋</h1>
 
 <p align="center">
   Desenvolvedora Full Stack apaixonada por tecnologia, inovação e soluções eficientes.<br>
